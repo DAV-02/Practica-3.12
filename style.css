@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+p.hola{
+    font-size: 200%;
+    color: black
+}
+p.adios{
+    color:gray;
+    position: relative;left: -120px;
+}
+form{
+    position:relative;left: -150px;
+}
+p.adios2{
+    color:gray;
+    position: relative;left: -150px;
+}
+p.buenas{
+    text-align: center;
+
+}
+input.boton{
+    position:relative;left: 100px;
+}
